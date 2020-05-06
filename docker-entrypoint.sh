@@ -1,0 +1,1 @@
+./EcoServer.sh -nogui
